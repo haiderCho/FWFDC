@@ -1,10 +1,14 @@
-# Freshwater Fish Disease Classification 🐟🧠
+<h1 align="center"> Freshwater Fish Disease Classification </h1>
+<h2 align="center">
+<p align="center">
+ <img alt="Languages" src="https://img.shields.io/github/languages/count/haiderCho/FWFDC">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/haiderCho/FWFDC">
+ <img alt="Contributors" src="https://img.shields.io/github/contributors/haiderCho/FWFDC">
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haiderCho/FWFDC">
+</p>
+</h2>
 
-A deep learning project for classifying freshwater fish diseases using image data. This project uses a transfer learning approach with **ResNet50** and is trained on a curated dataset of fish images from aquaculture in South Asia.
-
-## 📝 Project Overview
-
-Fish diseases can cause massive losses in aquaculture. Early and accurate detection is crucial for minimizing economic impact and improving fish health. This project builds a convolutional neural network model to classify images of diseased fish using **TensorFlow** and **Keras**.
+This project uses deep learning and transfer learning with ResNet50 to classify freshwater fish diseases from images, trained on a curated dataset from aquaculture in South Asia.
 
 ## 📁 Dataset
 
